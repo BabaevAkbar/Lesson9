@@ -1,0 +1,14 @@
+/home/muhammad/Рабочий стол/Lesson9/bin/Debug/net8.0/Lesson9
+/home/muhammad/Рабочий стол/Lesson9/bin/Debug/net8.0/Lesson9.deps.json
+/home/muhammad/Рабочий стол/Lesson9/bin/Debug/net8.0/Lesson9.runtimeconfig.json
+/home/muhammad/Рабочий стол/Lesson9/bin/Debug/net8.0/Lesson9.dll
+/home/muhammad/Рабочий стол/Lesson9/bin/Debug/net8.0/Lesson9.pdb
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.AssemblyInfoInputs.cache
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.AssemblyInfo.cs
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.csproj.CoreCompileInputs.cache
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.dll
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/refint/Lesson9.dll
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.pdb
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.genruntimeconfig.cache
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/ref/Lesson9.dll
