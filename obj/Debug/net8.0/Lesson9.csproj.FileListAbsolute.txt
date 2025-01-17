@@ -12,3 +12,4 @@
 /home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.pdb
 /home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.genruntimeconfig.cache
 /home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/ref/Lesson9.dll
+/home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.sourcelink.json

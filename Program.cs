@@ -1,4 +1,5 @@
 ﻿using System;
+using Models;
 
 namespace Lesson9
 {
@@ -6,7 +7,9 @@ namespace Lesson9
     {
         static void Main(string[] args)
         {
-            
+            //Задание 1
+            TemperatureConverter.CelsiusOfFahrenheit(50);
+            TemperatureConverter.FahrenheitOfCelsius(122);
         }
     }
     
