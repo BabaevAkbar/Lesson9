@@ -14,7 +14,8 @@ namespace Lesson9
             //Задание 2
             Car c1 = new Car("BMW", "F-10", 2024);
             (string Marka, string Model, int YearBirth) = c1;
-            Console.WriteLine($"Марка машины {Marka}. Модель {Model}. Год выпуска {YearBirth}");
+            Console.WriteLine($"Марка машины: {Marka}. Модель: {Model}. Год выпуска: {YearBirth}.");
+            Console.WriteLine("Hrrlo");
         }
     }
     
