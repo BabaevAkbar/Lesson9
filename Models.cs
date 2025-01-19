@@ -22,4 +22,25 @@ namespace Models
             Console.WriteLine($"Температура {temperatureFahrenheit} градусов по Фаренгейту равен {result2} градусов по Цельсию");
         }
     }
+
+    public class Car
+    {
+        private string Marka{ get; set; }
+        private string Model{ get; set; }
+        private int YearBirth{ get; set; }
+
+        public Car(string marka, string model, int yearBirth)
+        {
+            Marka = marka;
+            Model = model;
+            YearBirth = yearBirth;
+        }
+
+        public void Deconstruct(out string carMarka, out string carModel, out int carYearBirth)
+        {
+            carMarka = Marka;
+            carModel = Model;
+            carYearBirth = YearBirth;
+        }
+    }
 }

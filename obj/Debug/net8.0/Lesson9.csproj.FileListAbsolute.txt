@@ -13,3 +13,18 @@
 /home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.genruntimeconfig.cache
 /home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/ref/Lesson9.dll
 /home/muhammad/Рабочий стол/Lesson9/obj/Debug/net8.0/Lesson9.sourcelink.json
+C:\Users\Akbar\Desktop\Lesson\Lesson9\bin\Debug\net8.0\Lesson9.exe
+C:\Users\Akbar\Desktop\Lesson\Lesson9\bin\Debug\net8.0\Lesson9.deps.json
+C:\Users\Akbar\Desktop\Lesson\Lesson9\bin\Debug\net8.0\Lesson9.runtimeconfig.json
+C:\Users\Akbar\Desktop\Lesson\Lesson9\bin\Debug\net8.0\Lesson9.dll
+C:\Users\Akbar\Desktop\Lesson\Lesson9\bin\Debug\net8.0\Lesson9.pdb
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.AssemblyInfoInputs.cache
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.AssemblyInfo.cs
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.sourcelink.json
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.dll
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\refint\Lesson9.dll
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.pdb
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\Lesson9.genruntimeconfig.cache
+C:\Users\Akbar\Desktop\Lesson\Lesson9\obj\Debug\net8.0\ref\Lesson9.dll
